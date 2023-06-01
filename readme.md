@@ -54,7 +54,7 @@ In order for the Sesssion Replay Tool to work you require a functional ASA Gatew
 
 ## 2. Deploy ASA Utils
 
-* Download latest OPA Utils Release: https://github.com/mrdanielmh/opa-utils/releases
+* Download latest OPA Utils Release: https://github.com/mrdanielmh/opa-utils/releases/download/opa/opa-utils.zip
 
 ### Amazon Web Services 
 
@@ -172,7 +172,7 @@ AWS_REGION:                     AWS Bucket Region
 ASA_ID:                         ASA Access Key
 ASA_SECRET:                     ASA Secret Key
 ASA_TEAM:                       ASA Team Name
-ASA_PROJECT_NAME:               ASA Project Name
+ASA_PROJECT_NAME:               Leave Blank
 GCP_PROJECT_ID:                 Leave Blank
 GCP_EMAIL:                      Leave Blank
 GCP_PRIVATE:                    Leave Blank
